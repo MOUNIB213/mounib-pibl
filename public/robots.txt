@@ -1,0 +1,5 @@
+# Robots.txt for Mounib Khaldi Personal Portfolio Website
+User-agent: *
+Allow: /
+
+Sitemap: https://mounibkhaldi.com/sitemap.xml
